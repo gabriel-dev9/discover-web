@@ -11,6 +11,6 @@ function toggleMode() {
        img.setAttribute('src', 'p.figma/avatar-light.png')
     } else {
     // se tiver sem light mode, manter a imagem normal
-    img.setAttribute('src', 'p.figma/avatar.png')
-    }
+    img.setAttribute('src','p.figma/Avatar.png') 
+ }
 }
